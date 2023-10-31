@@ -64,7 +64,7 @@ namespace CalculadoraTeste
         }
 
         [Fact]
-        public void DivisãoPorZero()
+        public void DivisaoPorZero()
         {
             Calculadora _calc = construirClasse();
 
